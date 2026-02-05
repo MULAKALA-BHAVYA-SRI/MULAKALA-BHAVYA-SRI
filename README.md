@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Bhavya Sri 👋
 
-<!--
-**MULAKALA-BHAVYA-SRI/MULAKALA-BHAVYA-SRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer with a strong interest in Python programming,
+data analysis, and building practical projects.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python
+- Data Analysis (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
+- Git & GitHub
+- Command Line Interface (CLI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- **Student Task Manager (Python)**  
+  CLI-based application implementing CRUD operations with JSON persistence.
+
+- **Student Depression Data Analysis**  
+  Exploratory data analysis using Python to identify trends and patterns.
+
+### 🎯 Currently Learning
+- Python concepts
+- Data analysis techniques
+- Software development best practices
+
+### 📫 Connect with Me
+- GitHub: https://github.com/MULAKALA-BHAVYA-SRI
+
